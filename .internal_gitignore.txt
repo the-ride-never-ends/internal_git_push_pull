@@ -1,0 +1,7 @@
+debug_logs
+venv
+__pycache__
+*.Identifier
+*.csv
+*.html
+*.zip
